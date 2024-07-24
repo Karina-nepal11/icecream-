@@ -132,6 +132,7 @@ body {
 }
 
 /* nutrition and enjoy and recipe sesion css */
+.nutrition ul,
 .enjoy ul,
 .recipes ul {
     list-style-type: none;
